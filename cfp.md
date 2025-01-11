@@ -5,42 +5,61 @@ title: Call for papers
 
 # CALL FOR PAPERS
 
-Universal Dependencies (UD) is a framework for cross-linguistically consistent treebank annotation that has so far been applied to over 100 languages (<https://universaldependencies.org/>). The framework is aiming to capture similarities as well as idiosyncrasies among typologically different languages (e.g., morphologically rich languages, pro-drop languages, and languages featuring clitic doubling). The goal in developing UD was not only to support comparative evaluation and cross-lingual learning but also to facilitate multilingual natural language processing and enable comparative linguistic studies.
+**The eighth workshop on Universal Dependencies**  
+_Part of [SyntaxFest 2025](https://syntaxfest.github.io/syntaxfest25/), Ljubljana, August 26-29_
 
-The Universal Dependencies workshop series was started to create a forum for discussion of the theory and practice of UD, its use in research and development, and its future goals and challenges. The four workshops so far were held at NoDaLiDa in Gothenburg (2017), at EMNLP in Brussels (2018), at SyntaxFest in Paris (2019) and at COLING online (2020). The fifth workshop on Universal Dependencies invites papers on all topics relevant to UD, including but not limited to:
+[Universal Dependencies](https://universaldependencies.org) (UD)
+is a framework for cross-linguistically consistent treebank annotation
+that has so far been applied to over 150 languages . The framework is
+aiming to capture similarities as well as idiosyncrasies among
+typologically different languages (e.g., morphologically rich
+languages, pro-drop languages, and languages featuring clitic
+doubling). The goal in developing UD was not only to support
+comparative evaluation and cross-lingual learning but also to
+facilitate multilingual natural language processing and enable
+comparative linguistic studies.
 
-- theoretical foundations and universal guidelines
-- linguistic analysis of specific languages and/or constructions
-- language typology and linguistic universals
-- treebank annotation, conversion and validation
-- word segmentation, morphological tagging and syntactic parsing
-- downstream applications in natural language processing
-- linguistic studies based on the UD data
+The Universal Dependencies Workshop series was started to create a
+forum for discussion of the theory and practice of UD, its use in
+research and development, and its future goals and challenges. Some of
+the previous workshops have been co-located with Coling, EMNLP, and
+SyntaxFest. We invite papers on all topics relevant to UD, including
+but not limited to:
+
+- Theoretical foundations and universal guidelines
+- Linguistic analysis of specific languages and/or constructions
+- Language typology and linguistic universals
+- Treebank annotation, conversion and validation
+- Word segmentation, morphological tagging and syntactic parsing
+- The use of the UD data for evaluating or understanding language models
+- Linguistic studies based on the UD data
 
 Priority will be given to papers that adopt a cross-lingual perspective.
 
-## Paper length
+## SyntaxFest 2025
 
-We invite two types of submissions: long papers and short papers.
+[SyntaxFest](https://syntaxfest.github.io/) is a biennial event that
+brings together a series of events focusing on topics such as
+empirical syntax, linguistic annotation, statistical language
+analysis, and natural language processing. Apart from the 8th UDW, it
+hosts [TLT](https://www.korpuslab.uni-hamburg.de/en/tlt2025.html),
+DepLing, IWPT, and [Quasy](https://quansyntax.github.io/quasy2025/index.html).
+Each workshop publishes its own proceedings, but all events follow
+a shared submission process, timeline, and programme.
+[The UniDive 1st Shared Task on Morphosyntactic Parsing](https://unidive.lisn.upsaclay.fr/doku.php?id=other-events:msp) takes place on Aug, 26.
 
-* Long papers may consist of up to 10 pages of content (excluding references);
-* Short papers may consist of up to 6 pages of content (excluding references).
+## Important Dates
 
-## Submission page
+- Paper submission Deadline: April 15, 2025
+- Notification of acceptance: June 2, 2025
+- Camera-ready version due June 16, 2025
+- Conference dates  August 26-29, 2025
 
-Papers must be submitted in PDF format exclusively through the [SyntaxFest](https://syntaxfest.github.io/) joint [EasyChair](https://easychair.org/conferences/?conf=syntaxfest2021) submission page. All submissions will be done on Easychair. The link will be published here shortly.
+## Submission Information
 
-On the submission page, authors submit their paper only once for the whole SyntaxFest, composed of 4 conferences, but they can uncheck conferences they do not wish their paper to be considered for. If the paper is deemed appropriate for more than one of the selected conferences, the SyntaxFest joint organization committee decides on the final placement of the paper, which implies the day of the presentation and the proceedings the paper will appear in.
+Submission site and paper requirements will be provided in the next CfP.
 
-## Double-blind reviews
+## Workshop Chairs
 
-Reviewing of papers will be double-blind. Therefore, the paper must not include the authors' names and affiliations. Furthermore, self-references that reveal the author's identity, e.g., "We previously showed (Zeng, 2018) ...", must be avoided. Instead, use citations such as "Zeng (2018) previously showed ...". Papers that do not conform to these requirements will be rejected without review.
-
-## Style guidelines
-
-All submissions should follow the one-column COLING 2020 style guidelines provided as LaTeX style files or Microsoft Word templates (templates might be subject to slight modifications for compatibility reasons). The files are [downloadable here](/resources/syntaxfest2021style.zip).   
-Any appendix or supplementary material should be submitted as part of the main pdf and they *do not count towards the page limit*.
-
-## Proceedings
-
-For the authors' convenience, despite the conference being held in March 2022, the Proceedings of SyntaxFest 2021 will be published in December 2021 in the [ACL Anthology](https://www.aclweb.org/anthology/).
+Gosse Bouma (University of Groningen)  
+Çağrı Çöltekin (University of Tübingen)

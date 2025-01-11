@@ -1,16 +1,14 @@
 ---
 layout: page
-title: UDW 2023
+title: UDW 2025
 ---
 
-# Universal Dependencies Workshop 2023 (UDW 2023)
+# Universal Dependencies Workshop 2025 (UDW 2025)
 
-### [SyntaxFest 2023](https://syntaxfest.github.io/), Online, 21 to 25 March 2023.
+### [SyntaxFest 2025](https://syntaxfest.github.io/), Ljubljana, August 26–29
 
-UDW 2023 will be held at the SyntaxFest online (zoom and gather.town), during the week of
-March 21-March 25, 2023.
-The proceedings have been published preemptively, in December 2023.
-
+UDW 2025 will be held at the SyntaxFest in Ljubljana,
+during the week of August 26–29, 2025. 
 
 [Universal Dependencies](http://universaldependencies.org/) (UD) is a
 framework for cross-linguistically consistent treebank annotation that
@@ -26,13 +24,6 @@ comparative linguistic studies.
 
 ## Invited talk
 
-Invited talk by [Emily Pitler](http://www.emilypitler.com/), Google: [Incorporating Compositionality and Morphology into End-to-End Models](/udw21/invited-talk)
+TBA
 
-
-
-<hr style="margin:40px">
-
-### Sponsored by
-
-<img src="NSF_Logo.png" alt="NSF" height="80" style="margin: -5px 0 0 30px">
 

@@ -7,12 +7,18 @@ title: Organization
 
 ## UDW Workshop chairs & organizing committee
 
-* Miryam de Lhoneux, Uppsala University - KU Leuven - University of Copenhagen
-* Reut Tsarfaty, Bar-Ilan University - AI2
+- Gosse Bouma (University of Groningen)  
+- Çağrı Çöltekin (University of Tübingen)
 
 ##  SyntaxFest Local organizing committee
-* Petya Osenova, Bulgarian Academy of Sciences
-* Kiril Simov, Bulgarian Academy of Sciences
+
+- Kaja Dobrovoljc (University of Ljubljana, chair)
+- Špela Arhar Holdt (University of Ljubljana)
+- Marko Robnik Šikonja (University of Ljubljana)
+- Matej Klemen (University of Ljubljana)
+- Luka Terčon (University of Ljubljana)
+- Sara Kos (University of Ljubljana)
+
 
 ## Program committee
 
