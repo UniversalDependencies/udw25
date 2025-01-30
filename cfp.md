@@ -36,6 +36,7 @@ but not limited to:
 
 Priority will be given to papers that adopt a cross-lingual perspective.
 
+
 ## SyntaxFest 2025
 
 [SyntaxFest](https://syntaxfest.github.io/) is a biennial event that
@@ -57,7 +58,65 @@ a shared submission process, timeline, and programme.
 
 ## Submission Information
 
-Submission site and paper requirements will be provided in the next CfP.
+### Submission formats
+
+We invite submissions in two formats: 
+
+- Regulars (long) papers up to 8 pages of content
+  (excluding references and appendices). Regular papers should present
+  substantial, original, and unpublished research, including empirical
+  evaluation results where appropriate.
+- Short papers up to 4 pages of content (excluding references and
+  appendices).  Short papers may offer smaller, focused contributions,
+  such as work in progress, negative results, surveys, or opinion
+  pieces.
+
+Accepted papers will be given an additional page to address reviewer
+comments. 
+
+
+### Paper submission
+
+Papers must be submitted digitally in PDF format via the online
+conference system: <https://openreview.net/group?id=SyntaxFest/2025>.
+When submitting, authors will be asked to indicate which workshops
+they wish their paper to be considered for and to specify whether
+their submission is archival or non-archival.
+
+Please note that setting up an OpenReview account for the first time
+can take some time. To avoid last-minute issues, we strongly recommend
+registering an account in advance.
+
+### Submission templates
+
+All submissions should follow the two-column ACL style guidelines. We
+strongly recommend the use of the LaTeX style files, OpenDocument, or
+Microsoft Word templates created for ACL:
+<https://github.com/acl-org/acl-style-files>. All papers must be
+anonymous, i.e., not reveal author(s) on the title page or through
+self-references. So, e.g., “We previously showed (Smith, 2020) …”,
+should be avoided. Instead, use citations such as “Smith (2020)
+previously showed …”.
+
+### Review Process and Selection Criteria
+
+Papers should describe original work; they should emphasise completed
+work rather than intended work, and should indicate clearly the state
+of completion of the reported results. Submissions will be judged on
+correctness, originality, technical strength, significance and
+relevance to the conference, and interest to the attendees.
+
+All papers will undergo a double-blind peer review process, with final
+acceptance decisions made by the workshop organisers. Authors’
+workshop preferences will be considered, but final placement decisions
+will be made by the organizers. Submissions that violate the
+requirements above will be rejected without review.
+
+### Presentation Format
+
+Accepted papers will be presented as oral or poster presentations. The
+mode of presentation will be determined by the workshop chairs and
+does not reflect the quality of the submission.
 
 ## Workshop Chairs
 
