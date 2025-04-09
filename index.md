@@ -24,6 +24,10 @@ comparative linguistic studies.
 
 ## Invited talk
 
-TBA
+*[Miryam de Lhoneux](https://people.cs.kuleuven.be/~miryam.delhoneux/)*  
+KU Leuven, Belgium
+
+Miryam de Lhoneux is an assistant professor in the department of Computer Science at KU Leuven in Belgium, researching and teaching Natural Language Processing. She heads the LAGoM NLP lab where the focus is on multilingual and interpretable models. Previously, she was a postdoc at the University of Copenhagen in Denmark. She has a PhD from Uppsala University, Sweden, an MSc in Artificial Intelligence from the University of Edinburgh, UK, and a BA and MA in languages and literatures from UCLouvain, Belgium.
+
 
 
